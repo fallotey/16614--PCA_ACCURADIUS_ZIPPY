@@ -1,0 +1,17 @@
+Altium Designer Pick and Place Locations
+C:\Users\FrancisAllotey\ROM Tech\Engineering - Electrical - Electrical\PCB Layouts\16614--PCA_ACCURADIUS_ZIPPY\Project Outputs for 16614-Accuradius_PCA\Pick Place\Pick Place for 16614.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/10/22
+Time:       15:27
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer    Footprint      Center-X(mil) Center-Y(mil) Rotation Description           
+PTH2       "Plated through hole" TopLayer PTH_70MIL      6751.795      585.236       90       "Plated Through Hole" 
+PTH1       "Plated through hole" TopLayer PTH_70MIL      6756.795      165.000       90       "Plated Through Hole" 
+U1         DM-03S-25C-A-Z        TopLayer DM-03S-25C-A-Z 485.854       384.456       20.57    "Roller switch left"  
+U2         DM-03S-25D-A-Z        TopLayer DM-03S-25D-A-Z 4227.478      382.820       339.43   "Roller switch right" 

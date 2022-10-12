@@ -1,0 +1,188 @@
+*************************************************************
+FileName = 16614.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : 16614.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Board_Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 16614.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Board_Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 16614.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Board_Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 16614.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board_Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 16614.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board_Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 16614.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board_Outline
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Board_Outline
+      File : 16614.GM5
+
+    Adding Layer      : Board_Outline
+
+    Adding Layer      : Board_Outline
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 16614.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Board_Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 16614.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board_Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 16614.GD1
+
+    Adding Layer      : Board_Outline
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D13
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 16614.GG1
+
+    Adding Layer      : Board_Outline
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D13
+    D21
+*************************************************************
+

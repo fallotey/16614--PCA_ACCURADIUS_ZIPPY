@@ -1,0 +1,34 @@
+C  Project Name : 
+C  Board Name : 
+C  Date : 10/12/2022
+C  Time : 4:03:36 PM
+C  
+C  --------------- Layer Stackup --------------------
+C  
+C  Top Layer
+C  Bottom Layer
+C  
+C  --------------------------------------------------
+C  
+P  JOB
+P  UNITS CUST
+P  TITLE Qjz5165.tmp
+P  NUM 1.0
+P  REV A
+P  VER IPC-D-356A
+P  IMAGE PRIMARY
+317N/C              U2    -     D1260UA00X 043925Y 004112X0000          S0
+317N/C              U2    -     D1260UA00X 041529Y 005011X0000          S0
+317N/C              U2    -NC   D0500PA00X 044147Y 002645X0000          S0
+317N/C              U1    -NC   D0500PA00X 002986Y 002664X0000          S0
+317N/C              U1    -     D1260UA00X 003207Y 004126X0000          S0
+317N/C              U1    -     D1260UA00X 005603Y 005025X0000          S0
+317N/C                    -2    D2126PA00X 064516Y 003750X0000          S0
+317N/C                    -1    D2126PA00X 016485Y 003750X0000          S0
+317NetPTH1_1        PTH1  -1    D0378PA00X 067568Y 001650X0000          S0
+317NetPTH1_1        U1    -COM  D0500PA00X 006731Y 004070X0000          S0
+317NetPTH1_1        U2    -COM  D0500PA00X 040402Y 004051X0000          S0
+317NetPTH2_1        PTH2  -1    D0378PA00X 067518Y 005852X0000          S0
+317NetPTH2_1        U1    -NO   D0500PA00X 004859Y 003367X0000          S0
+317NetPTH2_1        U2    -NO   D0500PA00X 042275Y 003348X0000          S0
+999

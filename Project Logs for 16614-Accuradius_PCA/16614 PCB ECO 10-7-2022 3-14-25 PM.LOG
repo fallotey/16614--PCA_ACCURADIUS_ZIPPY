@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U1 Old Footprint=DM-03S-25C-A-Z New Footprint=DM-03S-25D-A-Z
+Change Component Footprint: Designator=U2 Old Footprint=DM-03S-25D-A-Z New Footprint=DM-03S-25C-A-Z
+Add Pin To Net: Unknown Pin: Pin PTH2-1
+Added Room: Name=Sheet1

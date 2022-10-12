@@ -1,0 +1,21 @@
+H optimize n staggered n
+$0 $NONE$
+$1 NetPTH1_1
+$2 NetPTH2_1
+#
+#Netlist points
+#
+0 0.062992 4.392522 0.4112109 B e e staggered 0 0 0
+0 0.062992 4.152932 0.5011237 B e e staggered 0 0 0
+0 0.025 4.4147272 0.2645166 B e e staggered 0 0 0
+0 0.025 0.2986054 0.2664291 B e e staggered 0 0 0
+0 0.062992 0.3207154 0.41257 B e e staggered 0 0 0
+0 0.062992 0.5603054 0.5024828 B e e staggered 0 0 0
+0 0.1062992 6.4516141 0.375 B e e staggered 0 0 0
+0 0.1062992 1.6484645 0.375 B e e staggered 0 0 0
+1 0.0188975 6.7567952 0.165 B e e staggered 0 0 0
+1 0.025 0.6731029 0.4069697 B e e staggered 0 0 0
+1 0.025 4.0402297 0.4050572 B e e staggered 0 0 0
+2 0.0188975 6.7517952 0.5852362 B e e staggered 0 0 0
+2 0.025 0.4858541 0.3366994 B e e staggered 0 0 0
+2 0.025 4.2274784 0.3347869 B e e staggered 0 0 0
